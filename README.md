@@ -1,4 +1,5 @@
 # Breast Cancer Prediction - 5th Semester Data Analytics Project
+Team name: Patterns n Parameters
 
 This is the final Data Analytics course project repository where we have implemented Breast Cancer tumor classification into malignant and benign thereby predicting the chance of breast cancer.
 We have used the kaggle data set and implemented Logistic Regression, Naive Bayes Algorithm, KNeighbors Classifier, Decision Tree Classifier, Random Forest Classifier and AdaBoost Classiifier.
