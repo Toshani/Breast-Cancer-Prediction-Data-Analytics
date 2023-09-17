@@ -28,7 +28,7 @@ So, concluding the accuracy of different models:
 2. Random Forest Classifier = 95.61 %
 3. Decision Tree Classifier = 94.78 %
 4. K Neighbours Classifier = 70.18 %
-5. Naiye Bayes = 63.30 %
+5. Naive Bayes = 63.30 %
 6. Logistic Regression = 58.82%
 
 # Acknowledgements
